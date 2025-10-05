@@ -35,7 +35,7 @@ This project was developed with the following technologies:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/michaelprocha/alura-portfolio.git
+git clone https://github.com/michaelprocha/purchasing-tickets.git
 ```
 2. Abra o arquivo `index.html` em qualquer navegador.
 
